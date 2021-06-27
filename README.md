@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Run 'npm install' after cloning to install dependencies in package.json
+
+You can also find my live site (front-end only) at https://expense-tracker-frontend-react.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
